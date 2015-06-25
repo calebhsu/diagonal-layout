@@ -5,7 +5,7 @@ Diagonal layout for CraftML
     $ npm install diagonal-layout
 
 ### Parameters
-	- spacing: adjusts spacing of item arrangement
+- spacing: adjusts spacing of item arrangement
 
 ### Example
 ```html
