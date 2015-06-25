@@ -1,4 +1,4 @@
-<craft name="diagonal">
+<craft name="diagonal-layout">
     <parameter name="spacing" type="float" default="0"/>
     <g>
         <content></content>
