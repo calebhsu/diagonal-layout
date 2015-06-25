@@ -20,7 +20,7 @@
                 })
 
                 tx = tx + solid.layout.size.x + params.spacing
-                ty = ty +- solid.layout.size.y + params.spacing
+                ty = ty + solid.layout.size.y + params.spacing
 
                 // place on x-y plane (z = 0)
                 solid.layout.location.z = 0
