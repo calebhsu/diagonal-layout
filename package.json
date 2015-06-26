@@ -1,6 +1,6 @@
 {
   "name": "diagonal-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parameterized diagonal layout for CraftML",
   "main": "index.js",
   "scripts": {

@@ -16,7 +16,7 @@
                 solid.translateTo({
                     x: tx,
                     y: ty, 
-                    z: solid.layout.location.z
+                    z: 0
                 })
 
                 tx = tx + solid.layout.size.x + params.spacing
