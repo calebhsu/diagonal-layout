@@ -1,8 +1,13 @@
 # diagonal-layout
 Diagonal layout for CraftML
 
-### Install
-    $ npm install diagonal-layout
+### Usage
+```html
+<craft>
+    <craft name="diagonal-layout" module="diagonal-layout"/>
+    <diagonal-layout></diagonal-layout>
+</craft>
+```
 
 ### Parameters
 - spacing: adjusts spacing of item arrangement
